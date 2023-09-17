@@ -1,0 +1,16 @@
+	CỬA HÀNG HƯNG THỊNH
+Mã hóa đơn: 27
+Mã khách hàng: 1
+Tên Khách Hàng:Nguyễn Trọng Nghĩa
+=====================================
+STT    MãSP    Số Lượng    Thành tiền
+1	1	  1	 55000.0đ
+2	2	  1	 55000.0đ
+3	3	  1	 75000.0đ
+
+Tổng tiền: 185000.0
+
+Ngày lập hóa đơn: 2023-04-23
+	design by nhóm 4
+	HotLine: 0359692045
+================end==================
